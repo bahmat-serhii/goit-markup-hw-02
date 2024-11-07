@@ -63,15 +63,7 @@ body {
   color: #404bbf;
   font-family: "Roboto", sans-serif;
 }
-.tel {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: #434455;
-  font-family: "Roboto", sans-serif;
-}
-.tel:hover {
+.email:focus {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -167,6 +159,7 @@ ul {
   line-height: 1.07;
   letter-spacing: 0.02em;
   color: #fff;
+  text-align: center;
 }
 .btn {
   font-family: "Roboto", sans-serif;
@@ -204,4 +197,22 @@ ul {
 
 .foot {
   background: #2e2f42;
+}
+.text-foot {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #f4f4fd;
+  font-family: "Roboto", sans-serif;
+}
+.logo-foot {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.16667;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #f4f4fd;
+  font-family: "Raleway", sans-serif;
 }
